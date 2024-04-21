@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Galaxy City Core 👋
+## **Resourcen:**
+* GalaxyMenu
+* GalaxyLib
 <!--
 
 **Here are some ideas to get you started:**
